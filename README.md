@@ -1,2 +1,2 @@
 # LammpsExercise
-My lammps exerces code and scripts
+My lammps exercise code and scripts
