@@ -3,5 +3,5 @@ My lammps exercise code and scripts
 
 # Download
 ```
-git clone https://github.com/walkandthinker/LammpsExercise.git
+git clone https://github.com/yangbai90/LammpsExercise.git
 ```
